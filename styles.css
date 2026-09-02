@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(230, 202, 165);
+}
+
+.main-card {
+    width: 600px;
+    margin: 0px auto;
+    text-align: center;
+}
+
+.main-item {
+    display: block;
+    padding: 8px;
+    background-color: antiquewhite;
+}
+
+.back-home {
+    align-content: center;
+    display: inline-block;
+    box-sizing: border-box;
+    width: 100px;
+    height: 30px;
+    margin-left: 8px;
+}
+
+.recipe-title {
+    margin: 8px;
+    text-align: center;
+}
+
+.recipe-img {
+    display: block;
+    width: 750;
+    height: auto;
+    margin: 0px auto;
+}
+
+.recipe-info {
+    padding: 8px;
+}
