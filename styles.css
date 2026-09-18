@@ -17,7 +17,6 @@ body {
 .back-home {
     align-content: center;
     display: inline-block;
-    box-sizing: border-box;
     width: 100px;
     height: 30px;
     margin-left: 8px;
